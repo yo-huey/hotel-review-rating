@@ -11,5 +11,3 @@ pycaret
 streamlit
 utils
 nltk
-string
-re
