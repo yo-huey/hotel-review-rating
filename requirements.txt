@@ -10,7 +10,6 @@ plotly
 pycaret
 streamlit
 utils
-pickle
 nltk
 nltk.tokenize
 nltk.stem
