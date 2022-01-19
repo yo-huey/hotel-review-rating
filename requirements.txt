@@ -11,8 +11,5 @@ pycaret
 streamlit
 utils
 nltk
-nltk.tokenize
-nltk.stem
-nltk.corpus
 string
 re
