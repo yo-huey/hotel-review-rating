@@ -6,3 +6,4 @@ streamlit
 utils
 nltk
 stopwords
+imblearn
