@@ -11,3 +11,6 @@ pycaret
 streamlit
 utils
 nltk
+wordnet
+pros_cons
+reuters
