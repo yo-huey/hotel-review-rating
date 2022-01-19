@@ -11,5 +11,4 @@ pycaret
 streamlit
 utils
 nltk
-wordnet
-reuters
+stopwords
